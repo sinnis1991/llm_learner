@@ -40,8 +40,9 @@
 └─ README.md
 ```
 
-## 5. 资源索引（待补充）
+## 5. 资源索引
 
+- 微信文章：`resources/wechat_articles.md`
 - 官方文档：
 - 课程：
 - 论文：
