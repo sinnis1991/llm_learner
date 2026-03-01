@@ -37,7 +37,10 @@
 │  ├─ agent-test-time-scalling.md
 │  ├─ agentic-training-recent-works-2026-03-02.md
 │  ├─ agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md
-│  └─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
+│  ├─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
+│  ├─ sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md
+│  ├─ skills-concept-and-openclaw-mechanism-2026-03-02.md
+│  └─ triton-operator-development-part1-2026-03-02.md
 ├─ resources/      # 附件与原始资料（截图/PDF/临时素材）
 └─ README.md
 ```
@@ -52,6 +55,9 @@
 - `notes/agentic-training-recent-works-2026-03-02.md`
 - `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
 - `notes/moe-rl-routing-replay-clipping-stable-training-2026-03-02.md`
+- `notes/sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md`
+- `notes/skills-concept-and-openclaw-mechanism-2026-03-02.md`
+- `notes/triton-operator-development-part1-2026-03-02.md`
 
 ### 微信文章来源（已整理进 notes）
 
@@ -61,6 +67,12 @@
   https://mp.weixin.qq.com/s/KZUQpS_Hger26thBsLmI-g
 - MoE模型RL训练易崩溃？Qwen团队用“Routing Replay + 裁剪”搞定，30B模型实验验证稳定收敛。  
   https://mp.weixin.qq.com/s/_fxhqXR7t-uBVWPfvzDuJw
+- SGLang PD分离架构深度解析：Prefill、Decode与Router的协同之道  
+  https://mp.weixin.qq.com/s/RYQ547Gxktza0_PPhfn_Iw
+- 一文讲清Skills概念与 OpenClaw 运作机制  
+  https://mp.weixin.qq.com/s/97VJzlPPMMqC2wF4YnKfpg
+- Triton算子开发详解(一)  
+  https://mp.weixin.qq.com/s/KcWQODLosVNVADP42oJkfw
 
 ### 预留索引
 
