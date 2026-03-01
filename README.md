@@ -34,6 +34,7 @@
 ```text
 .
 ├─ notes/          # 主题笔记
+│  └─ agent-test-time-scalling.md
 ├─ experiments/    # 代码实验
 ├─ papers/         # 论文速读
 ├─ resources/      # 工具、课程、文章索引
@@ -43,6 +44,7 @@
 ## 5. 资源索引
 
 - 微信文章：`resources/wechat_articles.md`
+- 学习笔记/专题记：`notes/agent-test-time-scalling.md`
 - 官方文档：
 - 课程：
 - 论文：
