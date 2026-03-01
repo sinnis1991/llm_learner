@@ -29,25 +29,37 @@
 - 遗留问题：
 - 下一步：
 
-## 4. 目录规划（可按需调整）
+## 4. 目录规划（当前实际结构）
 
 ```text
 .
-├─ notes/          # 主题笔记
-│  └─ agent-test-time-scalling.md
-├─ experiments/    # 代码实验
-├─ papers/         # 论文速读
-├─ resources/      # 工具、课程、文章索引
+├─ notes/          # 主题笔记（核心内容）
+│  ├─ agent-test-time-scalling.md
+│  ├─ agentic-training-recent-works-2026-03-02.md
+│  └─ agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md
+├─ resources/      # 附件与原始资料（截图/PDF/临时素材）
 └─ README.md
 ```
 
-## 5. 资源索引
+> 预留目录（按需创建）：`experiments/`、`papers/`
 
-- 微信文章：`resources/wechat_articles.md`
-- 学习笔记/专题记：
-  - `notes/agent-test-time-scalling.md`
-  - `notes/agentic-training-recent-works-2026-03-02.md`
-  - `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
+## 5. 资源索引（持续更新）
+
+### 学习笔记 / 专题记
+
+- `notes/agent-test-time-scalling.md`
+- `notes/agentic-training-recent-works-2026-03-02.md`
+- `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
+
+### 微信文章来源（已整理进 notes）
+
+- 总结Agentic训练的最近几篇工作  
+  https://mp.weixin.qq.com/s/IKv0xtIgi5EpuroWslLpjw
+- 聊聊 Agentic RL 热门话题：Off-policyness，Sample Efficiency与Priviledge Information  
+  https://mp.weixin.qq.com/s/KZUQpS_Hger26thBsLmI-g
+
+### 预留索引
+
 - 官方文档：
 - 课程：
 - 论文：
