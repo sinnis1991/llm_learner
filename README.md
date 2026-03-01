@@ -47,6 +47,7 @@
 - 学习笔记/专题记：
   - `notes/agent-test-time-scalling.md`
   - `notes/agentic-training-recent-works-2026-03-02.md`
+  - `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
 - 官方文档：
 - 课程：
 - 论文：
