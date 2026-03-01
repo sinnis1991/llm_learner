@@ -44,7 +44,9 @@
 ## 5. 资源索引
 
 - 微信文章：`resources/wechat_articles.md`
-- 学习笔记/专题记：`notes/agent-test-time-scalling.md`
+- 学习笔记/专题记：
+  - `notes/agent-test-time-scalling.md`
+  - `notes/agentic-training-recent-works-2026-03-02.md`
 - 官方文档：
 - 课程：
 - 论文：
