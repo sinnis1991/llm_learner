@@ -40,7 +40,8 @@
 │  ├─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
 │  ├─ sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md
 │  ├─ skills-concept-and-openclaw-mechanism-2026-03-02.md
-│  └─ triton-operator-development-part1-2026-03-02.md
+│  ├─ triton-operator-development-part1-2026-03-02.md
+│  └─ rl-reward-hacking-mitigation-2026-03-02.md
 ├─ resources/      # 附件与原始资料（截图/PDF/临时素材）
 └─ README.md
 ```
@@ -58,6 +59,7 @@
 - `notes/sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md`
 - `notes/skills-concept-and-openclaw-mechanism-2026-03-02.md`
 - `notes/triton-operator-development-part1-2026-03-02.md`
+- `notes/rl-reward-hacking-mitigation-2026-03-02.md`
 
 ### 微信文章来源（已整理进 notes）
 
@@ -73,6 +75,8 @@
   https://mp.weixin.qq.com/s/97VJzlPPMMqC2wF4YnKfpg
 - Triton算子开发详解(一)  
   https://mp.weixin.qq.com/s/KcWQODLosVNVADP42oJkfw
+- RL训练翻车：聊聊Reward Hacking...  
+  https://mp.weixin.qq.com/s/Dg7qc_4vpfiG9T6Pi-987w
 
 ### 预留索引
 
