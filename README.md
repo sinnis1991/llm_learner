@@ -39,6 +39,7 @@
 │  ├─ agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md
 │  ├─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
 │  ├─ sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md
+│  ├─ mini-sglang-key-features-2026-03-04.md
 │  ├─ skills-concept-and-openclaw-mechanism-2026-03-02.md
 │  ├─ triton-operator-development-part1-2026-03-02.md
 │  └─ rl-reward-hacking-mitigation-2026-03-02.md
@@ -57,6 +58,7 @@
 - `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
 - `notes/moe-rl-routing-replay-clipping-stable-training-2026-03-02.md`
 - `notes/sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md`
+- `notes/mini-sglang-key-features-2026-03-04.md`
 - `notes/skills-concept-and-openclaw-mechanism-2026-03-02.md`
 - `notes/triton-operator-development-part1-2026-03-02.md`
 - `notes/rl-reward-hacking-mitigation-2026-03-02.md`
@@ -71,6 +73,8 @@
   https://mp.weixin.qq.com/s/_fxhqXR7t-uBVWPfvzDuJw
 - SGLang PD分离架构深度解析：Prefill、Decode与Router的协同之道  
   https://mp.weixin.qq.com/s/RYQ547Gxktza0_PPhfn_Iw
+- 基于 mini-sglang 学习大模型推理关键功能  
+  https://mp.weixin.qq.com/s/pjSQMpHVAMXZh0uxM9ksNw
 - 一文讲清Skills概念与 OpenClaw 运作机制  
   https://mp.weixin.qq.com/s/97VJzlPPMMqC2wF4YnKfpg
 - Triton算子开发详解(一)  
