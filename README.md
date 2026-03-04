@@ -36,6 +36,7 @@
 ├─ notes/          # 主题笔记（核心内容）
 │  ├─ agent-test-time-scalling.md
 │  ├─ agentic-training-recent-works-2026-03-02.md
+│  ├─ agentic-code-reasoning-semi-formal-reasoning-2026-03-04.md
 │  ├─ agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md
 │  ├─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
 │  ├─ sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md
@@ -55,6 +56,7 @@
 
 - `notes/agent-test-time-scalling.md`
 - `notes/agentic-training-recent-works-2026-03-02.md`
+- `notes/agentic-code-reasoning-semi-formal-reasoning-2026-03-04.md`
 - `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
 - `notes/moe-rl-routing-replay-clipping-stable-training-2026-03-02.md`
 - `notes/sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md`
@@ -81,6 +83,11 @@
   https://mp.weixin.qq.com/s/KcWQODLosVNVADP42oJkfw
 - RL训练翻车：聊聊Reward Hacking...  
   https://mp.weixin.qq.com/s/Dg7qc_4vpfiG9T6Pi-987w
+
+### 论文 / 预印本（已整理进 notes）
+
+- Agentic Code Reasoning  
+  https://arxiv.org/abs/2603.01896
 
 ### 预留索引
 
