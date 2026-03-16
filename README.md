@@ -41,6 +41,7 @@
 │  ├─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
 │  ├─ sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md
 │  ├─ mini-sglang-key-features-2026-03-04.md
+│  ├─ chatgpt-report-69b7713a-2026-03-16.md
 │  ├─ skills-concept-and-openclaw-mechanism-2026-03-02.md
 │  ├─ triton-operator-development-part1-2026-03-02.md
 │  └─ rl-reward-hacking-mitigation-2026-03-02.md
@@ -61,6 +62,7 @@
 - `notes/moe-rl-routing-replay-clipping-stable-training-2026-03-02.md`
 - `notes/sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md`
 - `notes/mini-sglang-key-features-2026-03-04.md`
+- `notes/chatgpt-report-69b7713a-2026-03-16.md`
 - `notes/skills-concept-and-openclaw-mechanism-2026-03-02.md`
 - `notes/triton-operator-development-part1-2026-03-02.md`
 - `notes/rl-reward-hacking-mitigation-2026-03-02.md`
