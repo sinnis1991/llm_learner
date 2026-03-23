@@ -38,6 +38,7 @@
 │  ├─ agentic-training-recent-works-2026-03-02.md
 │  ├─ agentic-code-reasoning-semi-formal-reasoning-2026-03-04.md
 │  ├─ agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md
+│  ├─ agentic-rl-core-problems-environment-signal-async-policy-infra-2026-03-22.md
 │  ├─ moe-rl-routing-replay-clipping-stable-training-2026-03-02.md
 │  ├─ sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md
 │  ├─ mini-sglang-key-features-2026-03-04.md
@@ -59,6 +60,7 @@
 - `notes/agentic-training-recent-works-2026-03-02.md`
 - `notes/agentic-code-reasoning-semi-formal-reasoning-2026-03-04.md`
 - `notes/agentic-rl-offpolicyness-sample-efficiency-privileged-info-2026-03-02.md`
+- `notes/agentic-rl-core-problems-environment-signal-async-policy-infra-2026-03-22.md`
 - `notes/moe-rl-routing-replay-clipping-stable-training-2026-03-02.md`
 - `notes/sglang-pd-disaggregation-prefill-decode-router-2026-03-02.md`
 - `notes/mini-sglang-key-features-2026-03-04.md`
@@ -73,6 +75,8 @@
   https://mp.weixin.qq.com/s/IKv0xtIgi5EpuroWslLpjw
 - 聊聊 Agentic RL 热门话题：Off-policyness，Sample Efficiency与Priviledge Information  
   https://mp.weixin.qq.com/s/KZUQpS_Hger26thBsLmI-g
+- Agentic RL 训练核心问题：环境建模、学习信号、异步数据流、策略优化和基础设施  
+  https://mp.weixin.qq.com/s/XmUgW_Qxhk8Rm5w7wrlTpg
 - MoE模型RL训练易崩溃？Qwen团队用“Routing Replay + 裁剪”搞定，30B模型实验验证稳定收敛。  
   https://mp.weixin.qq.com/s/_fxhqXR7t-uBVWPfvzDuJw
 - SGLang PD分离架构深度解析：Prefill、Decode与Router的协同之道  
